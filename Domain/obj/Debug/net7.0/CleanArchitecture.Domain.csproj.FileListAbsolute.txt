@@ -1,0 +1,11 @@
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\Jaelson\Desktop\Projetos-Estudos\CleanArchiteture\Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
